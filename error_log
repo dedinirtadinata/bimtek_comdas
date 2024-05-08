@@ -1,4 +1,0 @@
-[Wed Feb 14 20:54:59.458705 2024] [log_config:error] [pid 32104] (13)Permission denied: AH00649: could not open transfer log file /Users/dedinirtadinata/Sites/epad.dev/epad.local-access_log.
-[Wed Feb 14 20:56:36.209293 2024] [log_config:error] [pid 32409] (13)Permission denied: AH00649: could not open transfer log file /Users/dedinirtadinata/Sites/epad.dev/epad.local-access_log.
-[Wed Feb 14 20:57:38.385401 2024] [autoindex:error] [pid 32857] [client 127.0.0.1:55768] AH01276: Cannot serve directory /Users/dedinirtadinata/Sites/epad.dev/: No matching DirectoryIndex (index.html,index.php) found, and server-generated directory index forbidden by Options directive
-[Wed Feb 14 20:57:44.635284 2024] [autoindex:error] [pid 32858] [client 127.0.0.1:55769] AH01276: Cannot serve directory /Users/dedinirtadinata/Sites/epad.dev/: No matching DirectoryIndex (index.html,index.php) found, and server-generated directory index forbidden by Options directive

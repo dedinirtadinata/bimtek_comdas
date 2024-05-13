@@ -6,7 +6,11 @@ class Home extends BaseController
 {
     public function index(): string
     {
-        return view('beranda_dukungan');
+        
+        echo view('header');
+        echo view('beranda');
+        echo view('footer');
+        return '';
     }
 
     public function dukungan() : string

@@ -35,6 +35,8 @@ class Home extends BaseController
     }
 
     public function peserta_dedi(){
-        echo "Hallo saya dedi";
+        echo view('header');
+        echo view('dedi');
+        echo view('footer');
     }
 }

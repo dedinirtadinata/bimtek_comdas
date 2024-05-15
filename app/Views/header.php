@@ -3,7 +3,7 @@
 
   <head>
     <title>Aranyak | Landing Page Template</title>
-    <link href="assets/css/theme.css" rel="stylesheet" id="style-default"> 
+    <link href="<?=base_url();?>assets/css/theme.css" rel="stylesheet" id="style-default"> 
   </head>
 
 

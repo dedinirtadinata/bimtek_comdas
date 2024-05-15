@@ -33,4 +33,8 @@ class Home extends BaseController
     {
         return $a+$b;
     }
+
+    public function peserta_dedi(){
+        echo "Hallo saya dedi";
+    }
 }

@@ -33,6 +33,8 @@
                   </form>
                   <ul class="navbar-nav mt-2 mt-lg-1 ms-lg-4 ms-xl-8 ms-2xl-9 gap-lg-x1" data-navbar-nav="data-navbar-nav">
                     <li class="nav-item"> <a class="nav-link nav-bar-item px-0" href="#home" title="home">Beranda</a></li>
+                    <li class="nav-item"> <a class="nav-link nav-bar-item px-0" href="http://localhost/bimtek_comdas/public/index.php/beranda/pe  serta/dedi" title="home">Dedi</a></li>
+                    <li class="nav-item"> <a class="nav-link nav-bar-item px-0" href="#about" title="about">Nirtadinata</a></li>
                     <li class="nav-item"> <a class="nav-link nav-bar-item px-0" href="#about" title="about">Katalog</a></li>
                     <li class="nav-item"> <a class="nav-link nav-bar-item px-0" href="#products" title="catalog">Tentang</a></li>
                     <li class="nav-item"> <a class="nav-link nav-bar-item px-0" href="#review" title="reviews">Ulasan</a></li>
